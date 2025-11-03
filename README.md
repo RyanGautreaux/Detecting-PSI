@@ -1,4 +1,4 @@
-# Detecting-PSI
+# Detecting-PSI -in Excel scraped data with Python for research
 The code to detect PSI online in Python: Based in theory
 # broadened_pass.py
 # High-recall, slang-aware detection of parasocial / fandom / shielding cues.
